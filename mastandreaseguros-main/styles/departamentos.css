@@ -1,0 +1,98 @@
+.contenido-depa {
+    display: block;
+    margin: 3px;
+    margin-top: 10px;
+}
+
+
+.caja-1 {
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 20px;
+    text-align: left;
+    margin-bottom: 15px;
+    font-size: 15px;
+
+    position: relative;
+}
+
+.caja-1 h1 {
+    font-size: 30px;
+}
+
+.caja-1 li {
+    font-size: 22px;
+}
+
+.caja-2 {
+    margin-top: 30px;
+
+    margin-right: 20px;
+    padding: 20px;
+    text-align: right;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.caja-2 h1 {
+    font-size: 30px;
+}
+
+.caja-2 li {
+    font-size: 22px;
+}
+
+.caja-3 {
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 20px;
+    text-align: left;
+    margin-bottom: 15px;
+    font-size: 15px;
+
+    position: relative;
+}
+
+.caja-3 h1 {
+    font-size: 30px;
+}
+
+.caja-3 li {
+    font-size: 22px;
+}
+
+.caja-4 {
+    margin-top: 30px;
+
+    margin-right: 20px;
+    text-align: right;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.caja-4 h1 {
+    font-size: 30px;
+}
+
+.caja-4 li {
+    font-size: 22px;
+}
+
+.caja-5 {
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 20px;
+    text-align: left;
+    margin-bottom: 15px;
+    font-size: 15px;
+
+    position: relative;
+}
+
+.caja-5 h1 {
+    font-size: 30px;
+}
+
+.caja-5 li {
+    font-size: 22px;
+}
